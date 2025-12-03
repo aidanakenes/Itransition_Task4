@@ -1,0 +1,21 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+venv/
+.env/
+*.env
+
+# Packages
+*.egg-info/
+dist/
+build/
+
+# OS junk
+.DS_Store
